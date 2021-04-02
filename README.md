@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @HenryXiloj
-- 👀 I’m interested in software, ds, ml, ai, music. 
+- 👀 I’m interested in software, ds, ml, ai, bussines and music. 
 - 🌱 I’m currently learning software and ds.
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me https://www.linkedin.com/in/henry-xiloj-herrera-93b9b473/
