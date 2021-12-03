@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HenryXiloj
+- 👋 Hi, I’m @HenryXiloj, open source enthusiast
 - 👀 I’m interested in software, ds, ml, ai, bussines and music. 
 - 🌱 I’m currently learning software and ds.
 - 💞️ I’m looking to collaborate on everything
