@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning software and ds.
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me 
-- https://www.linkedin.com/in/henry-xiloj-herrera-93b9b473/
+- https://www.linkedin.com/in/henry-xiloj-herrera/
 - http://jarmx.blogspot.com/
 - https://stackoverflow.com/users/11573887/henry-xiloj-herrera
 <!---
