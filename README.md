@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @HenryXiloj, open source enthusiast
-- 👀 I’m interested in software, ds, ml, ai, bussines and music. 
-- 🌱 I’m currently learning software and ds.
+- 👋 Hi, I’m @HenryXiloj, Open Source Advocate
+- 👀 I’m interested in software, cloud computing, ds, ml, ai, bussines and music. 
+- 🌱 I’m currently learning software and cloud computing.
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me 
 - https://www.linkedin.com/in/henry-xiloj-herrera/
