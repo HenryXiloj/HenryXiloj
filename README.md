@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HenryXiloj, Open Source Advocate
+- 👋 Hi, I’m @HenryXiloj, Software Engineer | Cloud & DevOps | OSS Contributor
 - 👀 I’m interested in software, cloud computing, ds, ml, ai, bussines and music. 
 - 🌱 I’m currently learning software and cloud computing.
 - 💞️ I’m looking to collaborate on everything
