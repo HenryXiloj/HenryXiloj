@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning software and cloud computing.
 - 💞️ I’m looking to collaborate on everything
 - 📫 How to reach me
-- https://henryxiloj.github.io/starter-contact/
-- https://jarmx.blogspot.com/
 - https://www.linkedin.com/in/henry-xiloj-herrera/
+- https://jarmx.blogspot.com/
+- https://henryxiloj.github.io/starter-contact/
 - https://stackoverflow.com/users/11573887/henry-xiloj-herrera
   
 <!---
