@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HenryXiloj, Software Engineer | Cloud & DevOps | OSS Contributor
+- 👋 Hi, I’m @HenryXiloj, Sr. Software Engineer | Cloud-Native Platform Engineer | Go • Java • Kubernetes • GCP • Terraform
 - 👀 I’m interested in software, cloud computing, ds, ml, ai, bussines and music. 
 - 🌱 I’m currently learning software and cloud computing.
 - 💞️ I’m looking to collaborate on everything
